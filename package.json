@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      "is_maybe",
+      "/Library/WebServer/Documents/temp"
+    ]
+  ],
+  "_from": "is_maybe@*",
+  "_id": "is_maybe@0.0.4",
+  "_inCache": true,
+  "_location": "/is_maybe",
+  "_nodeVersion": "0.12.9",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/is_maybe-0.0.4.tgz_1458818826162_0.5061849839985371"
+  },
+  "_npmUser": {
+    "email": "mouse@knoblau.ch",
+    "name": "mousemke"
+  },
+  "_npmVersion": "2.14.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "is_maybe",
+    "raw": "is_maybe",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/is_maybe/-/is_maybe-0.0.4.tgz",
+  "_shasum": "ddac4166efbefa8bf232854af67cc04c90cacaa2",
+  "_shrinkwrap": null,
+  "_spec": "is_maybe",
+  "_where": "/Library/WebServer/Documents/temp",
+  "author": {
+    "name": "mouse@knoblau.ch"
+  },
+  "dependencies": {},
+  "description": "check if something is maybe true",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ddac4166efbefa8bf232854af67cc04c90cacaa2",
+    "tarball": "http://registry.npmjs.org/is_maybe/-/is_maybe-0.0.4.tgz"
+  },
+  "installable": true,
+  "license": "MIT",
+  "main": "is_maybe.js",
+  "maintainers": [
+    {
+      "name": "mousemke",
+      "email": "mouse@knoblau.ch"
+    }
+  ],
+  "name": "is_maybe",
+  "optionalDependencies": {},
+    "repository": {
+    "type": "git",
+    "url": "git@github.com:mousemke/is_maybe.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
