@@ -1,10 +1,10 @@
-is_maybe - 0.0.4
+is_maybe - 0.0.5
 ====================
 
 Usage
 =====
 
-- `npm i -S is_maybe`
+- `npm i -D is_maybe`
 
     or
 
